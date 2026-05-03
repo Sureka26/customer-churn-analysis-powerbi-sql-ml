@@ -2,6 +2,13 @@
 > End-to-End Data Analytics Project using SQL, Power BI & Machine Learning
 > to identify customer churn and drive retention strategies
 
+##  Project Highlights
+- End-to-end data analytics pipeline (SQL → Power BI → ML)
+- Built predictive churn model with 84% accuracy
+- Identified key business drivers impacting churn
+- Designed interactive dashboards for decision-making
+- Provided actionable retention strategies
+  
 ## Project Overview
 Customer churn is a critical business problem that directly impacts revenue and growth.
 
