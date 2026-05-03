@@ -125,6 +125,14 @@ e. Total Revenue
 
 ## Dashboard Preview
 
+### Summary Dashboard
+![Summary](assets/Summary Dashboard.png)
+
+### Churn Analysis Dashboard
+![Churn](assets/Churn Analysis Dashboard.png)
+
+### Prediction Dashboard
+![Prediction](assets/Prediction Dashboard.png)
 
 
 ## Author
