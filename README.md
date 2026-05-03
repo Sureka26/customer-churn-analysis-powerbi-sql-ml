@@ -137,10 +137,13 @@ e. Total Revenue
 
 ## Author
 **Sureka R**
-- Aspiring Data Analyst
-- Skilled in SQL, Power BI, Python
-- Passionate about solving business problems using data.
+Aspiring Data Analyst.
+
+Skills: SQL | Power BI | Python.
+Focus: Business Analytics & Machine Learning.
 
   ## Connect with me:
+  
   -Linkdein (www.linkedin.com/in/sureka26)
+  
   -GitHub (https://github.com/Sureka26)
