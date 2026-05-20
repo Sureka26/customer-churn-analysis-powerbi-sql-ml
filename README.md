@@ -158,7 +158,4 @@ Aspiring Data Analyst.
 Skills: SQL | Power BI | Python.
 Focus: Business Analytics & Machine Learning.
 
-  ## Connect with me:
-  -LinkdeIn: www.linkedin.com/in/sureka26
-  
-  -GitHub: https://github.com/Sureka26
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sureka26)
