@@ -136,17 +136,14 @@ e. Total Revenue
 ## Dashboard Preview
 
 ### Summary Dashboard
-![Summary](assets/Summary Dashboard.png)
 <img width="643" height="358" alt="Screenshot 2026-05-03 155313" src="https://github.com/user-attachments/assets/6750584a-5bac-4e3c-9bf5-cfc0098200a6" />
 
 
 ### Churn Analysis Dashboard
-![Churn](assets/Churn Analysis Dashboard.png)
 <img width="632" height="353" alt="Screenshot 2026-05-03 155351" src="https://github.com/user-attachments/assets/1e9e203b-bbec-4108-8111-e593d32fd467" />
 
 
 ### Prediction Dashboard
-![Prediction](assets/Prediction Dashboard.png)
 <img width="640" height="357" alt="Screenshot 2026-05-03 155329" src="https://github.com/user-attachments/assets/b8214e0b-f7af-48f4-a646-f5c2ee58e04a" />
 
 
