@@ -56,6 +56,15 @@ d) Segment customers:
   
 e) Predict future churn using Machine Learning
 
+## Dataset Information
+
+- Dataset Name: Telecom Customer Churn Dataset
+- Domain: Telecommunications
+- Format: CSV
+- Total Records: 6,418
+- Total Columns: 34
+- Data Type: Structured Customer Data
+
 ## Project Workflow
 1. Data Collection (CSV dataset)
 2. Data Cleaning & Transformation (SQL)
