@@ -12,6 +12,16 @@ End-to-End Data Analytics Project using SQL, Power BI & Machine Learning to iden
 - Designed interactive dashboards for decision-making
 - Provided actionable retention strategies
 
+## Project Overview
+Customer churn is a critical business problem that directly impacts revenue and growth.
+
+This project analyzes customer data to:
+- Identify churn patterns
+- Understand key drivers
+- Predict high-risk customers
+- Provide actionable retention strategies
+- Built using a complete analytics pipeline: SQL → Power BI → Machine Learning
+
 ## Business Problem
 Customer churn is one of the biggest challenges for subscription-based businesses because acquiring a new customer is significantly more expensive than retaining an existing one. High churn rates lead to revenue loss, reduced customer lifetime value, and increased marketing costs.
 Business stakeholders need to identify customers who are likely to churn, understand the factors influencing churn, and implement proactive retention strategies to improve customer loyalty and business growth.
@@ -23,16 +33,6 @@ This project addresses these challenges by combining SQL, Power BI, and Machine 
 - Which customer groups contribute the highest revenue risk?
 - How accurately can machine learning identify customers at risk of churning?
 - What retention strategies can reduce churn and improve customer lifetime value?
-
-## Project Overview
-Customer churn is a critical business problem that directly impacts revenue and growth.
-
-This project analyzes customer data to:
-- Identify churn patterns
-- Understand key drivers
-- Predict high-risk customers
-- Provide actionable retention strategies
-- Built using a complete analytics pipeline: SQL → Power BI → Machine Learning
 
 ## Project Objectives
 a) Analyze customer behavior across:
@@ -78,22 +78,6 @@ e) Predict future churn using Machine Learning
 2. Power BI → Dashboard & visualization
 3. Python (Scikit-learn) → Machine Learning
 4. Excel / CSV → Data source
-
-## Dashboard Preview
-1) Summary Dashboard
-- Total Customers
-- Total Churn
-- Churn Rate
-- Revenue Loss
-
-2) Churn Analysis Dashboard
-- Churn by Contract Type
-- Churn by Payment Method
-- Churn by Service Type
-   
-3) Prediction Dashboard
-- High-Risk Customers
-- Retention Opportunities
 
 ## Key Business Insights
 1. Contract Type Drives Churn
