@@ -2,13 +2,28 @@
 > End-to-End Data Analytics Project using SQL, Power BI & Machine Learning
 > to identify customer churn and drive retention strategies
 
+## Short Description 
+End-to-End Data Analytics Project using SQL, Power BI & Machine Learning to identify customer churn and drive retention strategies.
+
 ## Project Highlights
 - End-to-end data analytics pipeline (SQL → Power BI → ML)
 - Built predictive churn model with 84% accuracy
 - Identified key business drivers impacting churn
 - Designed interactive dashboards for decision-making
 - Provided actionable retention strategies
-  
+
+## Business Problem
+Customer churn is one of the biggest challenges for subscription-based businesses because acquiring a new customer is significantly more expensive than retaining an existing one. High churn rates lead to revenue loss, reduced customer lifetime value, and increased marketing costs.
+Business stakeholders need to identify customers who are likely to churn, understand the factors influencing churn, and implement proactive retention strategies to improve customer loyalty and business growth.
+This project addresses these challenges by combining SQL, Power BI, and Machine Learning to analyze customer behavior, predict churn risk, and generate actionable business recommendations.
+
+## Business Questions
+- Which customer segments are most likely to churn?
+- What are the key business factors driving customer churn?
+- Which customer groups contribute the highest revenue risk?
+- How accurately can machine learning identify customers at risk of churning?
+- What retention strategies can reduce churn and improve customer lifetime value?
+
 ## Project Overview
 Customer churn is a critical business problem that directly impacts revenue and growth.
 
@@ -150,7 +165,7 @@ e. Total Revenue
 
 ## Author
 **Sureka R**
-Aspiring Data Analyst.
+Data Analyst.
 
 Skills: SQL | Power BI | Python.
 Focus: Business Analytics & Machine Learning.
